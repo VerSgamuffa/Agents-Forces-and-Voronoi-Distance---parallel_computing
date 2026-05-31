@@ -1,0 +1,26 @@
+"C:\Program Files\JetBrains\CLion 2025.2.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.2.4/bin/ninja/win/x64/ninja.exe" -G Ninja -DPython_EXECUTABLE=C:/Users/vixfo/AppData/Local/Programs/Python/Python314/python.exe -DPython3_EXECUTABLE=C:/Users/vixfo/AppData/Local/Programs/Python/Python314/python.exe -S C:\Users\vixfo\CLionProjects\ProgettoParallelComputing -B C:\Users\vixfo\CLionProjects\ProgettoParallelComputing\cmake-build-release
+-- The C compiler identification is MSVC 19.39.33521.0
+-- The CXX compiler identification is MSVC 19.39.33521.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.39.33519/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenMP_C: -openmp (found version "2.0")
+-- Found OpenMP_CXX: -openmp (found version "2.0")
+-- Found OpenMP: TRUE (found version "2.0")
+-- Configuring done (7.5s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    Python3_EXECUTABLE
+    Python_EXECUTABLE
+
+
+-- Build files have been written to: C:/Users/vixfo/CLionProjects/ProgettoParallelComputing/cmake-build-release
